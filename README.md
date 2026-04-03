@@ -17,4 +17,3 @@ The main purpose of this repository is to:
 Will be updated over time as I learn new things
 
 1. Data = In this section, I will learn how to handle and work with data
-    - thinking_data
