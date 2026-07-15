@@ -1,3 +1,4 @@
-from first_program import printAny
+import first_program
 
-printAny("Aarti Keswani")
+print(type(first_program))
+first_program.printAny("Aarti Keswani")
