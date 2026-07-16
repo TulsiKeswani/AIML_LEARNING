@@ -8,3 +8,7 @@ def printAny(n) :
 
 printAny("Tulsi Keswani")
 
+name = "Tulsi Keswani"
+age = 21
+Course = "B.Tech"
+father_name = "Rajesh Keswani"
